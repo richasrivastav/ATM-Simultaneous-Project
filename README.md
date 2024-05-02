@@ -1,2 +1,2 @@
-# ATM-Simultaneous-Python-Project
+# ATM-Python-Project
 ATM-Simultaneous-Python-Project
